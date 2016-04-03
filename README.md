@@ -5,7 +5,7 @@ but what matters the most is CGPA right (not for me btw :-P).Even if you dont ad
 
 
 <h1>How to use it:</h1>
-Make sure that you have root access while running this script.
+Make sure that you have root access while running this script.<br>
 To use it just type <b>python getCG_erp.py</b> and you will be prompted for the Roll Number. <br>
 Enter it, and the CGPA for every semester along with the <b>person's name</b> and <b>Department</b> will be listed right away!!
 
