@@ -8,7 +8,7 @@ Make sure that you have root access while running this script.<br>
 To use it just type <b>python getCG_erp.py</b> and you will be prompted for the Roll Number. <br>
 Enter it, and the CGPA for every semester along with the <b>person's name</b> and <b>Department</b> will be listed right away!!
 
-Go ahead, use it I know you want to test it.Again...I just know. ;-D
+Go ahead, use it, I know you want to test it.How??Again...I just know. ;-D
 
 
 
