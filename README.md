@@ -1,7 +1,6 @@
 This a script that gives you the CGPA of any student at IIT Kharagpur.
 All you need to know is the person's Roll Number.
-I have parsed the data from ERP's site and used it to show the desired results. Of course I could have shown many other things,<br>
-but what matters the most is CGPA right (not for me btw :-P).Even if you dont admit it, I know. How?? you say? Well, I just know.:)
+I have parsed the data from ERP's site and used it to show the desired results. Of course I could have shown many other things but what matters the most is CGPA right (not for me btw :-P).Even if you dont admit it, I know. How?? you say? Well, I just know.:)
 
 
 <h1>How to use it:</h1>
