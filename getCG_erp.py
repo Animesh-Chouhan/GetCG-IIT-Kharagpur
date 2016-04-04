@@ -18,7 +18,6 @@ for i in range(0,len(p)):
 	if(p[i].string==' CGPA'):
 		temp+=1 
 
-# print("CGPA of %s from the Department of %s is as follows:"%(p[6].string,p[9].string))
 print (" Name: %s \n Department: %s \n CGPA :\n"%(p[6].string,p[9].string))
 for j in range(0,len(p)):
 	if(p[j].string==' CGPA'):
