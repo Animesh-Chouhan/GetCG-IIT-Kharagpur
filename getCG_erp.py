@@ -18,12 +18,13 @@ for i in range(0,len(p)):
 	if(p[i].string==' CGPA'):
 		temp+=1 
 
-print("CGPA of %s from the Department of %s is as follows:"%(p[6].string,p[9].string))
+# print("CGPA of %s from the Department of %s is as follows:"%(p[6].string,p[9].string))
+print (" Name: %s \n Department: %s \n CGPA :\n"%(p[6].string,p[9].string))
 for j in range(0,len(p)):
 	if(p[j].string==' CGPA'):
 		if(p[j+1].string==None):
 			print ''
 		else:
-			print("\n\t Semester %s --> %s"%(temp-1,p[j+1].string))
+			print("\t Semester %s --> %s\n"%(temp-1,p[j+1].string))
 		temp-=1
 # print ("%s"%(time.time()-start_time))
