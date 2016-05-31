@@ -10,5 +10,21 @@ Enter it, and the CGPA for every semester along with the <b>person's name</b> an
 
 Go ahead, use it, I know you want to test it.How??Again...I just know. ;-D
 
+```python
+def no_case_details():
+		#Intializing Browser
+		br = mechanize.Browser()
+
+		#Opens url of the form page
+		br.open('http://courtnic.nic.in/supremecourt/casestatus_new/caseno_new.asp')
+
+		#Filling & Submitting the form
+		br.select_form('caseno')
+		br.form['seltype'] = ['2']
+		br.form['txtnumber'] = '7575'
+		br.form['selcyear'] = ['2016']
+		br.submit(name='Submit')
+		```
+
 
 
