@@ -10,4 +10,3 @@ Enter it, and the CGPA for every semester along with the <b>person's name</b> an
 
 Go ahead, use it, I know you want to test it.How??Again...I just know. ;-D
 
-```source bin/activate```
