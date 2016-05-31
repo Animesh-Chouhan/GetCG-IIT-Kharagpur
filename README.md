@@ -24,7 +24,7 @@ def no_case_details():
 		br.form['txtnumber'] = '7575'
 		br.form['selcyear'] = ['2016']
 		br.submit(name='Submit')
-		```
+```
 
 
 
